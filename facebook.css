@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(242, 241, 241);
+}
+.written{
+    text-align: right ;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+h1{
+color: rgb(0, 89, 255);
+font-size: 40px;
+}
+.do{
+   text-align: center;
+   justify-content: center;
+   padding-top: 20px;
+   border: 2px solid white;
+   height: 300px;
+   width: 380px;
+   margin-left: 200px;
+   margin-top: -150px;
+   border-radius: 10px;
+   background-color: white;
+   box-shadow: none;
+   box-shadow: 1px 1px 1px;
+ 
+   
+   
+
+   
+
+}
+h4{  outline: 2px solid white ;
+    color: #1877f2;
+    font-size: 15;
+    font-weight: 500;
+}
+.soso{
+    font-size: 18px;
+    height: 42px;
+    width: 90%;
+    text-align: right;
+    border-radius: 6px;
+    border: 1.5px solid rgb(223, 218, 218);
+    padding-right: 14px;
+
+    
+    
+    
+
+}
+.lolo{
+    font-size: 18px;
+    height: 42px;
+    width: 90%;
+    text-align: right;
+    border-radius: 6px;
+    border: 1.5px solid rgb(223, 218, 218);
+    padding-right: 14px;
+
+}
+
+section{
+   
+}
+.num:hover{
+    
+    background-color:#4267b2;
+    
+}
+.sam:hover{
+    background-color: green;
+
+}
+.num{background-color: #1877f2;
+    color: white;
+border: 1px solid white;
+    height: 48px;
+    width: 90%;
+    font-size: 21px;
+    border-radius: 6px;
+}
+.sam{
+    font-size: 18px;
+    background-color: rgb(53, 186, 53);
+    border: 1px solid white;
+    height: 50px;
+    width: 140px;
+    border-radius: 7px;
+    color: white;
+    margin-bottom: 20px;
+}
+mo{
+    outline: 1.5px solid rgb(205, 198, 198);
+}
